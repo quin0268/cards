@@ -9,38 +9,38 @@ html {
   box-sizing: inherit;
 }
 
-.Cards img {
+.cards img {
   display: block;
   margin-bottom: 1rem;
 }
 
-.Cards strong {
+.cards strong {
   display: block;
   margin: 0 auto 1rem;
   font-size: 1.125rem;
 }
 
-.Cards dl {
+.cards dl {
   margin-bottom: 1rem;
 }
 
-.Cards dt {
+.cards dt {
   display: inline-block;
   width: 6em;
   font-style: italic;
 }
 
-.Cards dd {
+.cards dd {
   display: inline-block;
   margin: 0;
   min-width: 9em;
 }
 
-.Cards div {
+.cards div {
   text-align: center;
 }
 
-.Cards a {
+.cards a {
   display: inline-block;
   padding: .5em .75em;
   background-color: #ccc;
@@ -49,19 +49,19 @@ html {
   text-decoration: none;
 }
 
-.Cards a:hover {
+.cards a:hover {
   background-color: #333;
   color: #fff;
 }
 
-.Cards {
+.cards {
   margin: 0;
   padding: 0;
   list-style-type: none;
   text-align: center;
 }
 
-.Cards li {
+.cards li {
   display: inline-block;
   margin: 0 .5em 1em;
   max-width: 20em;
