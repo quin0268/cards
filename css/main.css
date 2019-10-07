@@ -9,6 +9,21 @@ html {
   box-sizing: inherit;
 }
 
+.cards img {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.cards strong {
+  display: block;
+  margin: 0 auto 1rem;
+  font-size: 1.125rem;
+}
+
+.cards dl {
+  margin-bottom: 1rem;
+}
+
 .cards {
   margin: 0;
   padding: 0;
